@@ -1,0 +1,2 @@
+#!/bin/bash
+export LOVE="4" | export BREATH="5" | echo "$((BREATH**LOVE))
